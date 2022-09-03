@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Movies/static/css/main.3c257237.css",
+    "main.js": "/Movies/static/js/main.49a15e32.js",
+    "static/js/787.1fbe8fc3.chunk.js": "/Movies/static/js/787.1fbe8fc3.chunk.js",
+    "static/media/wakanda.png": "/Movies/static/media/wakanda.e48da1cf079fa6faa6a1.png",
+    "static/media/Halloween.jpeg": "/Movies/static/media/Halloween.edae1d688c9d68fa99dd.jpeg",
+    "static/media/mundo gordo.jpg": "/Movies/static/media/mundo gordo.e2216906e295231422ec.jpg",
+    "static/media/desc3.webp": "/Movies/static/media/desc3.0a983650d9fc286e3fd5.webp",
+    "static/media/mercenarios.jpeg": "/Movies/static/media/mercenarios.7e8226e12b025c237ee3.jpeg",
+    "static/media/avatar.jpeg": "/Movies/static/media/avatar.5e42f25dab1426e186bc.jpeg",
+    "static/media/lordoftherings.jpg": "/Movies/static/media/lordoftherings.9b9c8f3800009a290ce2.jpg",
+    "static/media/lotr.jpg": "/Movies/static/media/lotr.a4d5f9aeed2d7ed2165d.jpg",
+    "static/media/sñoranillos.jpg": "/Movies/static/media/sñoranillos.247789d8647a2dea56e3.jpg",
+    "static/media/maxresdefault.jpg": "/Movies/static/media/maxresdefault.6fb01385d31af3fe1be0.jpg",
+    "static/media/Yohan.jpg": "/Movies/static/media/Yohan.87a20c461c538e420a03.jpg",
+    "static/media/vertigo.jpg": "/Movies/static/media/vertigo.ae8c9b8ce495b9f5ccc0.jpg",
+    "static/media/jurassic.jpg": "/Movies/static/media/jurassic.d4f2ac20132d388117bf.jpg",
+    "static/media/exorcista.jpg": "/Movies/static/media/exorcista.d16a04cd6b63309e2e43.jpg",
+    "static/media/Jurassic_World.jpg": "/Movies/static/media/Jurassic_World.a081fe0807b42ea5931c.jpg",
+    "static/media/Dragon_Ball.jpg": "/Movies/static/media/Dragon_Ball.10d9e4a322c85ee14827.jpg",
+    "static/media/images2.jfif": "/Movies/static/media/images2.85fec74ad04c19b48b01.jfif",
+    "static/media/images3.jfif": "/Movies/static/media/images3.984d4eb0cf25e0033e3a.jfif",
+    "static/media/images1.jfif": "/Movies/static/media/images1.f0f88b83d533b7bde25c.jfif",
+    "static/media/programming.jfif": "/Movies/static/media/programming.8c44699b04efcbb65fae.jfif",
+    "static/media/logo.svg": "/Movies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Movies/index.html",
+    "main.3c257237.css.map": "/Movies/static/css/main.3c257237.css.map",
+    "main.49a15e32.js.map": "/Movies/static/js/main.49a15e32.js.map",
+    "787.1fbe8fc3.chunk.js.map": "/Movies/static/js/787.1fbe8fc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c257237.css",
+    "static/js/main.49a15e32.js"
+  ]
+}
